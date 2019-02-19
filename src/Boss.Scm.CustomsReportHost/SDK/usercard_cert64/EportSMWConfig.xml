@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes" ?>
+<eport_smw>
+    <reader_define>
+        <reader tag="A">
+            <type>450</type>
+            <index>1</index>
+        </reader>
+        <reader tag="B">
+            <type>250</type>
+            <index>1</index>
+        </reader>
+        <reader tag="C">
+            <type>400</type>
+            <index>1</index>
+        </reader>
+        <reader tag="D">
+            <type>900</type>
+            <index>1</index>
+        </reader>
+        <reader tag="E">
+            <type>100</type>
+            <index>1</index>
+        </reader>
+        <reader tag="F">
+            <type>100</type>
+            <index>2</index>
+        </reader>
+        <reader tag="G">
+            <type>500</type>
+            <index>1</index>
+        </reader>
+        <reader tag="H">
+            <type>200</type>
+            <index>1</index>
+        </reader>
+        <reader tag="I">
+            <type>550</type>
+            <index>1</index>
+        </reader>
+        <reader tag="J">
+            <type>800</type>
+            <index>1</index>
+        </reader>
+        <reader tag="K">
+            <type>250</type>
+            <index>2</index>
+        </reader>
+        <reader tag="L">
+            <type>150</type>
+            <index>1</index>
+        </reader>
+        <reader tag="M">
+            <type>150</type>
+            <index>2</index>
+        </reader>
+        <reader tag="N">
+            <type>400</type>
+            <index>2</index>
+        </reader>
+    </reader_define>
+    <reader_group1>
+      	<group index="1">AHECGL</group> 
+  	<group index="2">IBCGFM</group> 
+    </reader_group1>
+    <reader_group2>
+        <group index="1">BCAHGEFLM</group>
+        <group index="2">BKAHCGEFLM</group>
+    </reader_group2>
+    <reader_group3>
+        <group index="1">CAE</group>
+        <group index="2">NBF</group>
+    </reader_group3>    
+</eport_smw>
