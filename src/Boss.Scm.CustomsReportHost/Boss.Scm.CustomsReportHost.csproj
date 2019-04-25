@@ -55,9 +55,6 @@
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Boss.Scm.MqMessages, Version=1.0.1.25, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Boss.Scm.MqMessages.1.0.1.25\lib\net461\Boss.Scm.MqMessages.dll</HintPath>
-    </Reference>
     <Reference Include="Dapper, Version=1.50.5.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Dapper.1.50.5\lib\net451\Dapper.dll</HintPath>
     </Reference>
@@ -119,6 +116,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AsyncHelper.cs" />
+    <Compile Include="CustomsPaymentReportRequestMqMessage.cs" />
     <Compile Include="CustomsReportDataProvider.cs" />
     <Compile Include="CustomsReportHandler.cs" />
     <Compile Include="CustomsReportHostBootstrap.cs" />

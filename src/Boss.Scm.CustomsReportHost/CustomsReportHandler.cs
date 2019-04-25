@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Threading.Tasks;
-using Boss.Scm.Customs;
 using Rebus.Handlers;
 using System.Text;
 using Boss.Scm.CustomsReportHost.SDK;

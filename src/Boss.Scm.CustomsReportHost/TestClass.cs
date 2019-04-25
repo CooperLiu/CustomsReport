@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Text;
-using Boss.Scm.Customs;
 using Boss.Scm.CustomsReportHost.SDK;
 using Rebus.Activation;
 
